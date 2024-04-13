@@ -1,7 +1,0 @@
-@charset "UTF-8";
-
-body {
-    background-image: linear-gradient(to right , rgb(100, 100, 231) , lightblue);
-    color: thistle;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
